@@ -2,9 +2,9 @@
 
 install git: sudo apt install git
 
-cd Linux-Printer-Driver
-
 git clone https://github.com/Min0706/Linux-Printer-Driver.git
+
+cd Linux-Printer-Driver
 
 sudo dpkg -i file.deb
 
